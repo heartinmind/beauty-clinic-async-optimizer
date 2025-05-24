@@ -1,2 +1,2 @@
-# eauty-clinic-async-optimizer
-eauty-clinic-async-optimizer
+# beauty-clinic-async-optimizer
+beauty-clinic-async-optimizer
